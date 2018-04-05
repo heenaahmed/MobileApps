@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Praveen\AndroidStudioProjects\BMI\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Praveen\AndroidStudioProjects\BMI\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-71096ed41ef1a5e9b61f49d785a58c9ce7f59549.jar" />
+    </item>
+    <item
+        jar="C:\Users\Praveen\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Praveen\AndroidStudioProjects\BMI\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-7794d02c5aebcfcbe8a2ca7c77c87136f10b0ac7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Praveen\AndroidStudioProjects\BMI\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Praveen\AndroidStudioProjects\BMI\app\build\intermediates\pre-dexed\debug\classes-3fb3b3382fb9bebd5a1543b21bff382866f74b54.jar" />
+    </item>
+    <item
+        jar="C:\Users\Praveen\AndroidStudioProjects\BMI\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Praveen\AndroidStudioProjects\BMI\app\build\intermediates\pre-dexed\debug\classes-e2c27a7a15f12a54cdc4a04486e9583b250666f6.jar" />
+    </item>
+
+</items>
